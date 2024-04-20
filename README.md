@@ -4,7 +4,7 @@
 
 ## Demo Video
 
-![Alt text](Demo/demo.mp4)
+
 
 ## Getting Started
 
