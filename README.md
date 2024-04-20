@@ -1,9 +1,13 @@
- <h2 align="center">Firebase Realtime Database Data Migration to supabase </h2>
+ <h2 align="center">Firebase Realtime db Data Migration to supabase </h2>
 
 <p align="center"> Effortlessly Migrate your firebase realtime database data to supabase </p>
 
 ## Demo Video
 
+<video width="560" height="315" controls>
+  <source src="Demo/Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Getting Started
 
