@@ -4,10 +4,7 @@
 
 ## Demo Video
 
-<video width="560" height="315" controls>
-  <source src="Demo/Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Alt text](Demo/demo.mp4)
 
 ## Getting Started
 
