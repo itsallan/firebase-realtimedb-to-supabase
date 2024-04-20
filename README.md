@@ -1,5 +1,4 @@
-
-## <h2 align="center">Firebase Realtime Database Data Migration to supabase </h2>
+ <h2 align="center">Firebase Realtime Database Data Migration to supabase </h2>
 
 Effortlessly Migrate your firebase realtime database data to supabase
 
