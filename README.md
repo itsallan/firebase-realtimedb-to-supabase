@@ -17,4 +17,5 @@ Documentation
 
 - [@itsallan](https://github.com/itsallan)
 - [@lauben2814y](https://github.com/lauben2814y)
-
+## Badges
+[![Made with Supabase](https://supabase.com/badge-made-with-supabase-dark.svg)](https://supabase.com)
