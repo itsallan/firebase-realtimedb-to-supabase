@@ -4,6 +4,8 @@
 
 ## Demo Video
 
+https://github.com/itsallan/firebase-realtimedb-to-supabase/assets/134838992/2dfe6bf8-f5f4-4488-a70f-bfe451b435a2
+
 
 
 ## Getting Started
