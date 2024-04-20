@@ -7,11 +7,11 @@
 
 ## Documentation
 
-[Documentation]
+Documentation
 
 
 ## Authors
 
-- [@octokatherine](https://github.com/itsallan)
+- [@itsallan](https://github.com/itsallan)
 - [@lauben2814y](https://github.com/lauben2814y)
 
