@@ -8,7 +8,7 @@ Effortlessly Migrate your firebase realtime database data to supabase
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
-## Documentation
+## Getting St
 
 Documentation
 
