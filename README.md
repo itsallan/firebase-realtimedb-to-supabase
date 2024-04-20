@@ -9,10 +9,10 @@
 
 ### Export Data from Firebase:
 1. Go to your Firebase dashboard and navigate to the Realtime Database section.
-3. Choose the specific database path you want to export.
-4. On the right side, click on "Export".
-5. Visit [Firebase realtimedb to supabase web](https://firebase-realtimedb-to-supabase.vercel.app/) and upload your exported JSON format from Firebase.
-6. Click "Generate Column Titles" and carefully read the instructions on the page.
+2. > Choose the specific database path you want to export
+3. On the right side, click on "Export".
+4. Visit [Firebase realtimedb to supabase web](https://firebase-realtimedb-to-supabase.vercel.app/) and upload your exported JSON format from Firebase.
+5. Click "Generate Column Titles" and carefully read the instructions on the page.
 
 ### Prepare Supabase:
 1. Go to your Supabase dashboard.
