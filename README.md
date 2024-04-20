@@ -27,11 +27,6 @@
 4. Include the API key as well.
 5. Click the button below to start uploading your JSON data. You'll see a progress bar indicating the transfer status.
 
-That's it! Your data will be seamlessly transferred from Firebase Realtime Database to Supabase, retaining its integrity and data types.
-
-
-Export your json 
-
 
 ## Authors
 
