@@ -30,6 +30,10 @@ https://github.com/itsallan/firebase-realtimedb-to-supabase/assets/134838992/2df
 4. Include the API key as well.
 5. Click the button below to start uploading your JSON data. You'll see a progress bar indicating the transfer status.
 
+## Contributing
+
+Contributions are always welcome!
+[Download source code]() Make sure you have webpack installed
 
 ## Authors
 
