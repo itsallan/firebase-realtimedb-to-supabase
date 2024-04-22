@@ -34,7 +34,7 @@ https://github.com/itsallan/firebase-realtimedb-to-supabase/assets/134838992/2df
 
 How to contribute ?
 1. [Download source code](https://github.com/itsallan/firebase-realtimedb-to-supabase/raw/main/source%20code.7z)
-2. Make sure you have [Cordova](https://cordova.apache.org/docs/en/12.x/guide/cli/installation.html), [Webpack](https://webpack.js.org/guides/installation/) & [Framework7](https://framework7.io/docs/installation) installed
+2. Make sure you have [Webpack](https://webpack.js.org/guides/installation/) & [Framework7](https://framework7.io/docs/installation) installed
 
 ## Authors
 
